@@ -70,7 +70,7 @@ To run the simulation and observe the evolution of the robots:
 
 ## Project Structure
 
-- `data/`: Contains directories for fitness logs and robot configurations generated during simulations.
+- `data/`: Contains directories for sensor logs
 - `pyrosim/`: Includes modules for interfacing with the Pyrosim simulator.
 - `analyze.py`: Script for analyzing and visualizing the results of the evolutionary process.
 - `constants.py`: Defines global constants and parameters for the simulation.
